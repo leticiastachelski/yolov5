@@ -1,0 +1,15 @@
+train: train_images/images/train
+val: train_images/images/val
+
+nc: 8
+
+names: #['Cirrus','Stratocumulus','Stratus','Cumulus','Cumulonimbus','Hurricane','Ocean','Land']
+  0: Cirrus
+  1: Stratocumulus
+  2: Stratus
+  3: Cumulus
+  4: Cumulonimbus
+  5: Hurricane
+  6: Ocean
+  7: Land
+
