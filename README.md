@@ -35,8 +35,8 @@ pip install -r requirements.txt
 ### Results
 <table>
   <tr>
-    <td>Objects Blurred A</td>
-    <td>Objects Blurred B</td>
+    <td>Hurricane A</td>
+    <td>Hurricane B</td>
   </tr>
   <tr>
     <td><img src="https://github.com/leticiastachelski/yolov5/blob/master/Detecting%20motion/Captura%20de%20tela%20de%202022-09-13%2003-13-59.png)"></td>
