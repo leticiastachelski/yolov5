@@ -40,7 +40,7 @@ pip install -r requirements.txt
   </tr>
   <tr>
     <td><img src="https://github.com/leticiastachelski/yolov5/blob/master/Detecting%20motion/Captura%20de%20tela%20de%202022-09-13%2003-13-59.png)"></td>
-    <td><img src="https://user-images.githubusercontent.com/62513924/186101348-3b06d516-5507-4548-8efa-9b55564a75fe.png"></td>
+    <td><img src="https://github.com/leticiastachelski/yolov5/blob/master/Detecting%20motion/Captura%20de%20tela%20de%202022-09-13%2003-14-18.png"></td>
   </tr>
  </table>
  
